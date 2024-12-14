@@ -23,7 +23,17 @@
   <meta name="twitter:title" content="Owlto Finance" />
   <meta name="twitter:description"
 
-
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+              j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+              'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+              })(window,document,'script','dataLayer','GTM-5V5PGVC4');
+            </script><script>
+            (function(c,l,a,r,i,t,y){
+              c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+              t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+              y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+          })(window, document, "clarity", "script", "n84q1vpgoi");
+            </script><script src="/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js" noModule=""></script></head><body><noscript><iframe src="https://www.googletagman
     content="Owlto Finance is an intent-centric interoperability protocol, 'Bridge the World with AI Agent'." />
   <meta name="twitter:image" content="https://owlto.finance/icon/img/OwltoFinance4.jpg" />
   <meta property="og:url" content="https://owlto.finance" />
