@@ -68,7 +68,11 @@ et="utf-8"/><title>Coinbase Wallet</title><meta property="og:site_name" content=
   <meta name="twitter:image" content="https://owlto.finance/icon/img/OwltoFinance4.jpg" />
   <meta property="og:url" content="https://owlto.finance" />
   <meta property="og:title" content="Owlto Finance" />
-
+et="utf-8"/><title>Coinbase Wallet</title><meta property="og:site_name" content="Coinbase Wallet"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/><link rel="icon
+" href="/favicon.ico"/><link rel="apple-touch-icon" href="/favicon.ico"/><link rel="manifest" href="/manifest
+<!DOCTYPE html>
+<html lang="en">
   <meta property="og:description"
     content="Owlto Finance is an intent-centric interoperability protocol, 'Bridge the World with AI Agent'." />
   <meta property="og:type" content="website" />
